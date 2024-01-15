@@ -22,6 +22,9 @@ EDP라고도 하며, 이벤트와 특정 타겟으로 몰고가다라는 뜻의 
 
 상태차트는 상자와 화살표를 사용하여 상태머신을 시각적으로 확장한 것이다. 플로우차트나 스퀀스다이어그램과 비슷하다. 상태차트는 계층구조, 동시성, 통신 등의 기존의 상태머신에서 불가능한 추가기능들을 추가한다.
 
+# 레퍼런스
+
 - [xstate](https://stately.ai/docs/xstate)
 - [state-machines-and-statecharts](https://stately.ai/docs/state-machines-and-statecharts)
 - [이벤트 기반 프로그래밍](https://heeonii.tistory.com/3)
+- [이벤트 드리븐 아키텍쳐 & 쓰레드](https://velog.io/@limprove89/%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EA%B8%B0%EB%B0%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%93%B0%EB%A0%88%EB%93%9C)
